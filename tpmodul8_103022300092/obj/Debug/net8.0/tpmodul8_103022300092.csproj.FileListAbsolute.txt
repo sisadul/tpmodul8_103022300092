@@ -1,0 +1,16 @@
+C:\Users\ABD AZIZ\source\repos\tpmodul8_103022300092\tpmodul8_103022300092\obj\Debug\net8.0\tpmodul8_103022300092.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABD AZIZ\source\repos\tpmodul8_103022300092\tpmodul8_103022300092\obj\Debug\net8.0\tpmodul8_103022300092.AssemblyInfoInputs.cache
+C:\Users\ABD AZIZ\source\repos\tpmodul8_103022300092\tpmodul8_103022300092\obj\Debug\net8.0\tpmodul8_103022300092.AssemblyInfo.cs
+C:\Users\ABD AZIZ\source\repos\tpmodul8_103022300092\tpmodul8_103022300092\obj\Debug\net8.0\tpmodul8_103022300092.csproj.CoreCompileInputs.cache
+C:\Users\ABD AZIZ\source\repos\tpmodul8_103022300092\tpmodul8_103022300092\obj\Debug\net8.0\tpmodul8_103022300092.sourcelink.json
+C:\Users\ABD AZIZ\source\repos\tpmodul8_103022300092\tpmodul8_103022300092\bin\Debug\net8.0\tpmodul8_103022300092.exe
+C:\Users\ABD AZIZ\source\repos\tpmodul8_103022300092\tpmodul8_103022300092\bin\Debug\net8.0\tpmodul8_103022300092.deps.json
+C:\Users\ABD AZIZ\source\repos\tpmodul8_103022300092\tpmodul8_103022300092\bin\Debug\net8.0\tpmodul8_103022300092.runtimeconfig.json
+C:\Users\ABD AZIZ\source\repos\tpmodul8_103022300092\tpmodul8_103022300092\bin\Debug\net8.0\tpmodul8_103022300092.dll
+C:\Users\ABD AZIZ\source\repos\tpmodul8_103022300092\tpmodul8_103022300092\bin\Debug\net8.0\tpmodul8_103022300092.pdb
+C:\Users\ABD AZIZ\source\repos\tpmodul8_103022300092\tpmodul8_103022300092\obj\Debug\net8.0\tpmodul8_103022300092.dll
+C:\Users\ABD AZIZ\source\repos\tpmodul8_103022300092\tpmodul8_103022300092\obj\Debug\net8.0\refint\tpmodul8_103022300092.dll
+C:\Users\ABD AZIZ\source\repos\tpmodul8_103022300092\tpmodul8_103022300092\obj\Debug\net8.0\tpmodul8_103022300092.pdb
+C:\Users\ABD AZIZ\source\repos\tpmodul8_103022300092\tpmodul8_103022300092\obj\Debug\net8.0\tpmodul8_103022300092.genruntimeconfig.cache
+C:\Users\ABD AZIZ\source\repos\tpmodul8_103022300092\tpmodul8_103022300092\obj\Debug\net8.0\ref\tpmodul8_103022300092.dll
+C:\Users\ABD AZIZ\source\repos\tpmodul8_103022300092\tpmodul8_103022300092\bin\Debug\net8.0\covid_config.json
